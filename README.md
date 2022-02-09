@@ -38,7 +38,7 @@
  <ul>
  <li>Github:adityaprasad03cvcmsd</li>
  <li>E-mail:<a href="mailto:adityaprasad003@gmail.com">adityaprasad003@gmail.com</a></li>
- <li>Linkedin:<a href="https://www.linkedin.com/in/sandeep-yadav-828779149/" rel="nofollow">https://www.linkedin.com/in/sandeep-yadav-828779149/</a></li>
+ <li>Linkedin:<a href="www.linkedin.com/in/aditya-prasad-0741441a7" rel="nofollow">www.linkedin.com/in/aditya-prasad-0741441a7</a></li>
  </ul>
  <h3>Saiprasad</h3>
  <ul>
