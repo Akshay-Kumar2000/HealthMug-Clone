@@ -53,7 +53,7 @@
  </ul>
  <h3>Sivanandam</h3>
  <ul>
- <li>Github:sivacreator</li>
+ <li>Github:SivanandamG</li>
  <li>E-mail:<a href="gorantlasivanandam@gmail.com">gorantlasivanandam@gmail.com</a></li>
  <li>Linkedin:<a href="https://www.linkedin.com/in/sivanandam-gorantla-878a511b7/" rel="nofollow">https://www.linkedin.com/in/sivanandam-gorantla-878a511b7/</a></li>
  </ul>
